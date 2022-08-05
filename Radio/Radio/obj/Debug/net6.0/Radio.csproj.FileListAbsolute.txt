@@ -1,0 +1,15 @@
+C:\Users\zeynep\source\repos\Radio\Radio\bin\Debug\net6.0\Radio.exe
+C:\Users\zeynep\source\repos\Radio\Radio\bin\Debug\net6.0\Radio.deps.json
+C:\Users\zeynep\source\repos\Radio\Radio\bin\Debug\net6.0\Radio.runtimeconfig.json
+C:\Users\zeynep\source\repos\Radio\Radio\bin\Debug\net6.0\Radio.dll
+C:\Users\zeynep\source\repos\Radio\Radio\bin\Debug\net6.0\Radio.pdb
+C:\Users\zeynep\source\repos\Radio\Radio\obj\Debug\net6.0\Radio.csproj.AssemblyReference.cache
+C:\Users\zeynep\source\repos\Radio\Radio\obj\Debug\net6.0\Radio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeynep\source\repos\Radio\Radio\obj\Debug\net6.0\Radio.AssemblyInfoInputs.cache
+C:\Users\zeynep\source\repos\Radio\Radio\obj\Debug\net6.0\Radio.AssemblyInfo.cs
+C:\Users\zeynep\source\repos\Radio\Radio\obj\Debug\net6.0\Radio.csproj.CoreCompileInputs.cache
+C:\Users\zeynep\source\repos\Radio\Radio\obj\Debug\net6.0\Radio.dll
+C:\Users\zeynep\source\repos\Radio\Radio\obj\Debug\net6.0\refint\Radio.dll
+C:\Users\zeynep\source\repos\Radio\Radio\obj\Debug\net6.0\Radio.pdb
+C:\Users\zeynep\source\repos\Radio\Radio\obj\Debug\net6.0\Radio.genruntimeconfig.cache
+C:\Users\zeynep\source\repos\Radio\Radio\obj\Debug\net6.0\ref\Radio.dll
